@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignment2MiniProject</string>
+
+    <string-array name="difficulty_options">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+    <string-array name="category_options">
+        <item>9. General Knowledge</item>
+        <item>10. Entertainment: Books</item>
+        <item>11. Entertainment: Film</item>
+        <item>12. Entertainment: Music </item>
+        <item>13. Entertainment: Musicals and Theatres</item>
+        <item>14. Entertainment: Television</item>
+    </string-array>
+
+    <string-array name="role_options">
+        <item>player</item>
+        <item>admin</item>
+    </string-array>
+
+</resources>

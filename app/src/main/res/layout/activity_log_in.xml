@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    android:id="@+id/main"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <TextView
+        style="@style/FontStyleWhiteXL"
+        android:id="@+id/login_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:gravity="center"
+        android:layout_marginBottom="32dp"/>
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:hint="Email"
+        android:textColorHint="#AAAAAA"
+        android:textColor="#FFFFFF"
+        android:inputType="textEmailAddress"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#FFFFFF"/>
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:hint="Password"
+        android:textColorHint="#AAAAAA"
+        android:textColor="#FFFFFF"
+        android:inputType="textPassword"
+        android:layout_marginBottom="24dp"
+        android:backgroundTint="#FFFFFF"/>
+
+    <TextView
+        style="@style/FontStyleBlackL"
+        android:id="@+id/login_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:padding="20dp"
+        android:gravity="center"
+        android:background="@drawable/green_button"
+        android:layout_marginBottom="16dp"/>
+
+
+    <TextView
+        android:id="@+id/register_redirect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Don't have an account? Register"
+        android:textColor="#00FF00"
+        android:textSize="14sp"
+        android:gravity="center"/>
+</LinearLayout>

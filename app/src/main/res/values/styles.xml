@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomSpinnerTextView" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="CategoryTextViewStyle">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+    <style name="FontStyleXL">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+    <style name="FontStyleL">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+    <style name="FontStyleM">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+    <style name="FontStyleS">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:fontFamily">@font/noto_sans_medium</item>
+    </style>
+    <style name="FontStylePinkM">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#F069FF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+    <style name="FontStyleBlackL">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+    <style name="FontStyleBlackXL">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+    <style name="FontStyleBlackM">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+    <style name="FontStylBlackS">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:fontFamily">@font/noto_sans_medium</item>
+    </style>
+
+    <style name="FontStyleWhiteXL">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+    <style name="FontStyleWhiteL">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+    <style name="FontStyleWhiteM">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+    <style name="FontStyleGreyM">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#99000000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+    </style>
+</resources>
